@@ -1,0 +1,11 @@
+langchain
+langchain-community
+langchain-google-genai
+streamlit
+python-dotenv
+chromadb
+requests
+streamlit-local-storage
+unstructured>=0.4.16
+markdown
+google-generativeai
